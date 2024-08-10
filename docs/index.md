@@ -9,7 +9,7 @@ chunking functions, since application performance relies heavily on those two
 steps. See the usage guide for more information on how to write custom classes
 for these steps.
 
-Here is the link to the GitHub repo: https://github.com/shauryapednekar/text-ingestion-pipeline
+Here is the link to the GitHub repo: [https://github.com/shauryapednekar/text-ingestion-pipeline](https://github.com/shauryapednekar/text-ingestion-pipeline)
 
 ### Priorities
 
