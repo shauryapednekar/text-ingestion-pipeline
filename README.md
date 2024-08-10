@@ -18,7 +18,7 @@ The user guide and API reference for this package can be found here:
 [https://shauryapednekar.github.io/text-ingestion-pipeline/](https://shauryapednekar.github.io/text-ingestion-pipeline/)
 
 ### Demo
-A sample Google Colab notebook can be found here: [Google Colab Notebook - Demo](https://colab.research.google.com/drive/1eQ1TxI0OBjLvQU0n79x1_bRrULRj6if6?usp=sharing)
+A sample Google Colab notebook can be found here: [Jupyter Notebook Demo](https://github.com/shauryapednekar/text-ingestion-pipeline/blob/main/demos/basic_demo.ipynb)
 
 ### Priorities
 
