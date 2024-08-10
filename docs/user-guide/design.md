@@ -1,6 +1,11 @@
 ### Design Overview
 
 #### Class Structure
+
+NOTE: Mermaid diagrams aren't rendering on GitHub Pages for some reason. See
+[the README](https://github.com/shauryapednekar/text-ingestion-pipeline?tab=readme-ov-file#class-structure) 
+for the diagram: 
+
 Here's the high level overview of the classes and how they interact with each other.
 
 ```mermaid
