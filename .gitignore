@@ -25,3 +25,5 @@ test_output
 **.pkl
 **.faiss
 **.prof
+docs_sphinx
+output

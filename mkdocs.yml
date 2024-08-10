@@ -31,6 +31,9 @@ nav:
   - User Guide:
     - Installation: user-guide/installation.md
     - Usage: user-guide/usage.md
+    - Demo: user-guide/demo.md
+    - Design: user-guide/design.md
+    - Future Work: user-guide/future-work.md
   - API Reference:
     - Loader: api-reference/load.md
     - Chunker: api-reference/chunk.md

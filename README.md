@@ -3,7 +3,7 @@
 > The user guide and API reference can be found [here](https://shauryapednekar.github.io/text-ingestion-pipeline/).
 
 ### Goal
-The goal of this project was to design and implement a python package that lets
+The goal of this project is to design and implement a python package that lets
 the user easily ingest a textual dataset into a vectorstore.
 
 To that end, this package is focused more on the tooling layer than the actual
@@ -15,7 +15,10 @@ for these steps.
 
 ### Docs
 The user guide and API reference for this package can be found here: 
-https://shauryapednekar1.github.io/text-ingestion-pipeline/
+https://shauryapednekar.github.io/text-ingestion-pipeline/
+
+### Demo
+A sample Google Colab notebook can be found here: https://colab.research.google.com/drive/1eQ1TxI0OBjLvQU0n79x1_bRrULRj6if6?usp=sharing
 
 ### Priorities
 
